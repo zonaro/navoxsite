@@ -324,7 +324,7 @@ img {
 }
 
     .bg-overlay::after {
-        background-color: rgba(21, 4, 48, 0.89);
+        background-color: rgba(48, 4, 28, 0.89);
         position: absolute;
         z-index: -1;
         top: 0;
@@ -361,16 +361,16 @@ img {
     z-index: 1;
     width: 100%;
     height: 5px;
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
 }
 
 /* :: 3.7.0 ScrollUp */
 #scrollUp {
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     border-radius: 0;
     bottom: 50px;
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -387,9 +387,9 @@ img {
 
 /* :: 3.8.0 Musica Button */
 .musica-btn {
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
     position: relative;
@@ -430,23 +430,23 @@ img {
         padding: 0 15px;
         width: 133px;
         height: 42px;
-        border-left: 3px solid #cc1573;
-        border-right: 3px solid #5722a9;
+        border-left: 3px solid #cc1515;
+        border-right: 3px solid #3b001e;
         background-position: 0 0, 0 100%;
         background-repeat: no-repeat;
         background-size: 100% 3px;
-        background-image: -webkit-linear-gradient(left, #cc1573 0%, #5722a9 100%), -webkit-linear-gradient(left, #cc1573 0%, #5722a9 100%);
-        background-image: linear-gradient(to right, #cc1573 0%, #5722a9 100%), linear-gradient(to right, #cc1573 0%, #5722a9 100%);
+        background-image: -webkit-linear-gradient(left, #cc1515 0%, #3b001e 100%), -webkit-linear-gradient(left, #cc1515 0%, #3b001e 100%);
+        background-image: linear-gradient(to right, #cc1515 0%, #3b001e 100%), linear-gradient(to right, #cc1515 0%, #3b001e 100%);
     }
 
         .musica-btn.btn-3::after {
             -webkit-transition-duration: 750ms;
             transition-duration: 750ms;
             color: #ffffff;
-            background: #cc1573;
-            background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-            background: -webkit-linear-gradient(left, #cc1573, #5722a9);
-            background: linear-gradient(to right, #cc1573, #5722a9);
+            background: #cc1515;
+            background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+            background: -webkit-linear-gradient(left, #cc1515, #3b001e);
+            background: linear-gradient(to right, #cc1515, #3b001e);
             content: '';
             position: absolute;
             width: 100%;
@@ -1330,9 +1330,9 @@ img {
 
 .featured-shows-slides .owl-prev:hover,
 .featured-shows-slides .owl-next:hover {
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     color: #ffffff;
 }
 
@@ -1359,9 +1359,9 @@ img {
     z-index: 1;
     margin: 200px 7% 250px 7%;
     padding: 60px 30px;
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     opacity: 0.8;
 }
 
@@ -2024,9 +2024,9 @@ img {
 }
 
     .single-service-area .course-title span {
-        background: #cc1573;
-        background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-        background: linear-gradient(to right, #cc1573, #5722a9);
+        background: #cc1515;
+        background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+        background: linear-gradient(to right, #cc1515, #3b001e);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 72px;
@@ -2142,9 +2142,9 @@ img {
     .footer-area .footer-widget-area .subscribe-form button {
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms;
-        background: #cc1573;
-        background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-        background: linear-gradient(to right, #cc1573, #5722a9);
+        background: #cc1515;
+        background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+        background: linear-gradient(to right, #cc1515, #3b001e);
         position: absolute;
         z-index: 10;
         top: 0;
@@ -2225,9 +2225,9 @@ img {
     left: 50%;
     margin-left: -196px;
     z-index: 100;
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     text-align: center;
 }
 
@@ -2628,9 +2628,9 @@ img {
 }
 
     .single-accordion h6 a {
-        background: #cc1573;
-        background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-        background: linear-gradient(to right, #cc1573, #5722a9);
+        background: #cc1515;
+        background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+        background: linear-gradient(to right, #cc1515, #3b001e);
         border-radius: 0;
         color: #ffffff;
         display: block;
@@ -2668,9 +2668,9 @@ img {
         }
 
             .single-accordion h6 a.collapsed span {
-                background: #cc1573;
-                background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-                background: linear-gradient(to right, #cc1573, #5722a9);
+                background: #cc1515;
+                background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+                background: linear-gradient(to right, #cc1515, #3b001e);
             }
 
                 .single-accordion h6 a.collapsed span.accor-close {
@@ -2733,9 +2733,9 @@ img {
 }
 
 .musica-tabs-content .nav-tabs .nav-link.active {
-    background: #cc1573;
-    background: -webkit-linear-gradient(to right, #cc1573, #5722a9);
-    background: linear-gradient(to right, #cc1573, #5722a9);
+    background: #cc1515;
+    background: -webkit-linear-gradient(to right, #cc1515, #3b001e);
+    background: linear-gradient(to right, #cc1515, #3b001e);
     color: #ffffff;
 }
 
